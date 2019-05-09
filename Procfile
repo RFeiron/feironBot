@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp webapp-runner.jar:libs/* webapp.runner.launch.Main --enable-naming --port $PORT out/artifacts/FeironBot_jar/FeironBot.jar
+java -jar out/artifacts/FeironBot_jar/FeironBot.jar
