@@ -20,7 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="FeironBot" target="1.6" />
+      <module name="FeironBot" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>
